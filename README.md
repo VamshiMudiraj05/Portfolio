@@ -1,65 +1,166 @@
-# My Portfolio Website - Overview 🚀
+# Hi 👋, I'm Pulaboina Vamshi
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+### B.Tech CSE (Data Science) | Software Engineer Intern | Full-Stack Developer
 
----
+I'm a Computer Science Engineering student specializing in Data Science at **Malla Reddy University, Hyderabad**, with a strong interest in software development, full-stack applications, and data analytics.
 
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+Currently, I'm working as a **Trainee Software Engineer Intern at Isthara Parks Private Limited**, where I work with Java, Spring Boot, React, MySQL, REST APIs, Git, and Agile development practices.
 
 ---
 
-## 🛠️ Instructions
+## 👨‍💻 About Me
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
-
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
-
----
-
-## ⚙️ Tech Stack
-
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+* 🎓 B.Tech in Computer Science Engineering (Data Science)
+* 📊 CGPA: **8.85**
+* 💼 Trainee Software Engineer Intern at **Isthara Parks Private Limited**
+* 💻 Interested in **Java, Spring Boot, React & Full-Stack Development**
+* 📈 Interested in **Data Analytics & Data Visualization**
+* 🧠 Strong foundation in **OOP, DSA & DBMS**
+* 🎬 Freelance experience in **Web Development & Video Editing**
 
 ---
 
-## 🎨 Assets Usage
+## 🛠️ Technical Skills
 
-Some 3D assets included in this repository are free to use for learning purposes.
+**Programming**
 
-However:
+* Java
+* Python
 
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
+**Development**
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+* JavaScript
+* React
+* Spring Boot
+* REST APIs
+
+**Core Computer Science**
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Database Management Systems
+
+**Databases**
+
+* MySQL
+* MongoDB
+
+**Version Control**
+
+* Git
+* GitHub
 
 ---
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+## 🚀 Projects
+
+### 🏠 PG Made Eazy
+
+A full-stack web application for real-time PG listing, search, and booking, designed to streamline the rental process and improve the overall user experience.
+
+**Tech Stack:** React • Spring Boot • MongoDB
+
+**Key Features:**
+
+* Real-time PG listing and search
+* Booking functionality
+* Secure payment integration
+* Admin dashboard
+* Property listing management
+* Automated rental workflows
 
 ---
 
-## 📄 License
+### 🤝 Meme Marketplace Platform
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+A web platform connecting brands and influencers for creating and managing meme promotion campaigns.
 
-See the LICENSE file for full details
+**Tech Stack:** MERN Stack
 
+**Key Features:**
+
+* User registration
+* Role-based access
+* Campaign management
+* Messaging
+* Media uploads
+* Brand-influencer collaboration
+
+---
+
+### 📊 Click-Through Rate (CTR) Analysis
+
+A data visualization project analyzing one year of click and impression data to identify CTR patterns across digital channels.
+
+**Tech Stack:** Python • Data Analysis • Data Visualization • Time Series Forecasting
+
+**Key Highlights:**
+
+* Analyzed **20K daily records**
+* Identified CTR patterns across digital channels
+* Detected performance fluctuations over time
+* Implemented time-series forecasting
+* Predicted future CTR trends
+* Generated insights to support data-driven ad planning
+
+---
+
+## 💼 Experience
+
+### Trainee Software Engineer Intern
+
+**Isthara Parks Private Limited | Hyderabad**
+
+**May 2026 – Present**
+
+* Assisted in designing and developing full-stack web applications using **Java, Spring Boot, React, and MySQL**.
+* Built and tested **RESTful APIs**.
+* Fixed bugs and worked on application performance optimization.
+* Used **Git** for version control.
+* Contributed to feature implementation following **Agile development practices**.
+
+---
+
+## 📜 Certifications
+
+* **Design and Analysis of Algorithms** — NPTEL
+* **Data Analytics** — IBM
+
+---
+
+## 💡 Freelancing
+
+Alongside academics and software development, I have worked on freelance projects involving:
+
+* Small to medium web applications
+* Online menu websites
+* Informational websites
+* Video editing
+* Social media and promotional content
+
+I enjoy combining **technology and creativity** to build practical digital solutions for clients.
+
+---
+
+## 🎯 Currently Focusing On
+
+* Java & Spring Boot
+* Full-Stack Development
+* Data Structures & Algorithms
+* REST API Development
+* SQL & Databases
+* Data Analytics
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [vmudiraj230@gmail.com](mailto:vmudiraj230@gmail.com)
+
+💼 **LinkedIn:** linkedin.com/in/vamshi05/
+
+📱 **Phone:** +91-8247593561
+
+---
+
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
