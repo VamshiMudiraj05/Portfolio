@@ -1,8 +1,10 @@
 # Hi 👋, I'm Pulaboina Vamshi
 
-### B.Tech CSE (Data Science) | Software Engineer Intern | Full-Stack Developer
+### B.Tech CSE (Data Science) | Trainee Software Engineer | Full-Stack Developer
 
-I'm a Computer Science Engineering student specializing in Data Science at **Malla Reddy University, Hyderabad**, with a strong interest in software development, full-stack applications, and data analytics.
+🔗 **Portfolio:** [https://vamshiportfolio-sigma.vercel.app/](https://vamshiportfolio-sigma.vercel.app/)
+
+I'm a Computer Science Engineering graduate specializing in Data Science from **Malla Reddy University, Hyderabad**, with a strong interest in software development, full-stack applications, and data analytics.
 
 Currently, I'm working as a **Trainee Software Engineer Intern at Isthara Parks Private Limited**, where I work with Java, Spring Boot, React, MySQL, REST APIs, Git, and Agile development practices.
 
@@ -10,45 +12,40 @@ Currently, I'm working as a **Trainee Software Engineer Intern at Isthara Parks 
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech in Computer Science Engineering (Data Science)
-* 📊 CGPA: **8.85**
-* 💼 Trainee Software Engineer Intern at **Isthara Parks Private Limited**
-* 💻 Interested in **Java, Spring Boot, React & Full-Stack Development**
-* 📈 Interested in **Data Analytics & Data Visualization**
-* 🧠 Strong foundation in **OOP, DSA & DBMS**
-* 🎬 Freelance experience in **Web Development & Video Editing**
+- 🎓 B.Tech in Computer Science Engineering (Data Science)
+- 📊 CGPA: **8.85**
+- 💼 Trainee Software Engineer Intern at **Isthara Parks Private Limited**
+- 💻 Interested in **Java, Spring Boot, React & Full-Stack Development**
+- 📈 Interested in **Data Analytics & Data Visualization**
+- 🧠 Strong foundation in **OOP, DSA & DBMS**
+- 🎬 Freelance experience in **Web Development & Video Editing**
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming**
+### Programming
+- Java
+- Python
 
-* Java
-* Python
+### Development
+- JavaScript
+- React
+- Spring Boot
+- REST APIs
 
-**Development**
+### Core Computer Science
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Management Systems
 
-* JavaScript
-* React
-* Spring Boot
-* REST APIs
+### Databases
+- MySQL
+- MongoDB
 
-**Core Computer Science**
-
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Database Management Systems
-
-**Databases**
-
-* MySQL
-* MongoDB
-
-**Version Control**
-
-* Git
-* GitHub
+### Version Control
+- Git
+- GitHub
 
 ---
 
@@ -62,29 +59,40 @@ A full-stack web application for real-time PG listing, search, and booking, desi
 
 **Key Features:**
 
-* Real-time PG listing and search
-* Booking functionality
-* Secure payment integration
-* Admin dashboard
-* Property listing management
-* Automated rental workflows
+- Real-time PG listing and search
+- Booking functionality
+- Secure payment integration
+- Admin dashboard
+- Property listing management
+- Automated rental workflows
+   
+🔗 **Live URL:** [https://pg-made-eazy.vercel.app/](https://pg-made-eazy.vercel.app/)
+
+🔗 **GitHub:** [https://github.com/VamshiMudiraj05/PGMadeEazy](https://pg-made-eazy.vercel.app/)
 
 ---
 
-### 🤝 Meme Marketplace Platform
+### 🚀 CreatorSphere
 
-A web platform connecting brands and influencers for creating and managing meme promotion campaigns.
+A full-stack web platform that connects **brands and influencers**, enabling brands to create promotional campaigns and influencers to discover, apply, and collaborate on suitable campaigns.
 
-**Tech Stack:** MERN Stack
+**Tech Stack:** React • Node.js • MongoDB • Cloudinary
 
 **Key Features:**
 
-* User registration
-* Role-based access
-* Campaign management
-* Messaging
-* Media uploads
-* Brand-influencer collaboration
+- Brand and influencer registration with role-based access
+- Campaign creation and management
+- Influencer profile and pricing management
+- Campaign discovery and application functionality
+- Application tracking for brands
+- Real-time messaging between brands and influencers
+- Media and attachment uploads using Cloudinary
+- JWT-based secure authentication
+- Role-based dashboards for brands and influencers
+
+🔗 **Live URL:** [https://creator-sphere-iota.vercel.app/](https://creator-sphere-iota.vercel.app/)
+
+🔗 **GitHub:** [https://github.com/VamshiMudiraj05/CreatorSphere](https://github.com/VamshiMudiraj05/CreatorSphere)
 
 ---
 
@@ -96,12 +104,12 @@ A data visualization project analyzing one year of click and impression data to 
 
 **Key Highlights:**
 
-* Analyzed **20K daily records**
-* Identified CTR patterns across digital channels
-* Detected performance fluctuations over time
-* Implemented time-series forecasting
-* Predicted future CTR trends
-* Generated insights to support data-driven ad planning
+- Analyzed **20K daily records**
+- Identified CTR patterns across digital channels
+- Detected performance fluctuations over time
+- Implemented time-series forecasting
+- Predicted future CTR trends
+- Generated insights to support data-driven ad planning
 
 ---
 
@@ -113,30 +121,30 @@ A data visualization project analyzing one year of click and impression data to 
 
 **May 2026 – Present**
 
-* Assisted in designing and developing full-stack web applications using **Java, Spring Boot, React, and MySQL**.
-* Built and tested **RESTful APIs**.
-* Fixed bugs and worked on application performance optimization.
-* Used **Git** for version control.
-* Contributed to feature implementation following **Agile development practices**.
+- Assisted in designing and developing full-stack web applications using **Java, Spring Boot, React, and MySQL**.
+- Built and tested **RESTful APIs**.
+- Fixed bugs and worked on application performance optimization.
+- Used **Git** for version control.
+- Contributed to feature implementation following **Agile development practices**.
 
 ---
 
 ## 📜 Certifications
 
-* **Design and Analysis of Algorithms** — NPTEL
-* **Data Analytics** — IBM
+- **Design and Analysis of Algorithms** — NPTEL
+- **Data Analytics** — IBM
 
 ---
 
 ## 💡 Freelancing
 
-Alongside academics and software development, I have worked on freelance projects involving:
+Alongside software development, I have worked on freelance projects involving:
 
-* Small to medium web applications
-* Online menu websites
-* Informational websites
-* Video editing
-* Social media and promotional content
+- Small to medium web applications
+- Online menu websites
+- Informational websites
+- Video editing
+- Social media and promotional content
 
 I enjoy combining **technology and creativity** to build practical digital solutions for clients.
 
@@ -144,12 +152,12 @@ I enjoy combining **technology and creativity** to build practical digital solut
 
 ## 🎯 Currently Focusing On
 
-* Java & Spring Boot
-* Full-Stack Development
-* Data Structures & Algorithms
-* REST API Development
-* SQL & Databases
-* Data Analytics
+- Java & Spring Boot
+- Full-Stack Development
+- Data Structures & Algorithms
+- REST API Development
+- SQL & Databases
+- Data Analytics
 
 ---
 
@@ -157,7 +165,7 @@ I enjoy combining **technology and creativity** to build practical digital solut
 
 📧 **Email:** [vmudiraj230@gmail.com](mailto:vmudiraj230@gmail.com)
 
-💼 **LinkedIn:** linkedin.com/in/vamshi05/
+💼 **LinkedIn:** [linkedin.com/in/vamshi05/](https://linkedin.com/in/vamshi05/)
 
 📱 **Phone:** +91-8247593561
 
