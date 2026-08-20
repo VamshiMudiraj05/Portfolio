@@ -11,7 +11,7 @@ const projects = [
     title: "PG Made Eazy",
     category: "Full-Stack Web App",
     tools: "React, Spring Boot, MongoDB, Payment Integration, Admin Dashboard",
-    image: "/images/pgmadeeazy.png",
+    image: "/images/PG.png",
     link: "https://pg-made-eazy.vercel.app/",
   },
   {
