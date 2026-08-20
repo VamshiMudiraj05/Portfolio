@@ -19,7 +19,7 @@ const projects = [
     category: "Web Platform (MERN)",
     tools: "React, Node.js, Express, MongoDB, Media Upload, Campaign Workflows",
     image: "/images/CS.png",
-    link: "https://github.com/VamshiMudiraj05/",
+    link: "https://creator-sphere-iota.vercel.app/",
   },
   {
     title: "CTR Analysis",
@@ -33,7 +33,7 @@ const projects = [
     category: "Client Web Solutions",
     tools: "JavaScript, React, Online Menus, Responsive UI, Video Editing",
     image: "/images/freelance.png",
-    link: "https://github.com/VamshiMudiraj05/",
+    link: "https://vercel.com/vamshis-projects-d150b3fb/hackathon-94l7",
   },
 ];
 
