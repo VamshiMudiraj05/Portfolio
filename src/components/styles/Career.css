@@ -188,27 +188,37 @@
 @media only screen and (max-width: 600px) {
   .career-info {
     margin: 0;
+    width: 100%;
+  }
+  .career-container {
+    width: 100%;
   }
   .career-section h2 {
     width: 100%;
-    font-size: 45px;
-    line-height: 45px;
+    font-size: clamp(32px, 8vw, 45px);
+    line-height: 1.15;
     margin-top: 0px;
+    margin-bottom: 50px;
   }
   .career-info-in {
     gap: 0px;
+    flex-direction: column;
   }
   .career-info h3 {
-    font-size: 33px;
+    font-size: clamp(24px, 6vw, 33px);
+  }
+  .career-info h4 {
+    font-size: clamp(16px, 4.5vw, 20px);
+    width: auto;
   }
   .career-info-in,
   .career-info-box p {
-    padding-left: 5%;
+    padding-left: 20px;
   }
   .career-section {
     padding-top: 90px;
     margin-top: -70px;
-
+    margin-bottom: 50px;
     align-items: start;
     place-items: inherit;
     justify-content: left;

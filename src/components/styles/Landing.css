@@ -356,3 +356,37 @@ h2.landing-info-h2 {
     font-size: 75px;
   }
 }
+
+@media screen and (max-width: 480px) {
+  .landing-intro {
+    top: 10%;
+  }
+  .landing-intro h2 {
+    font-size: 16px;
+  }
+  .landing-intro h1 {
+    font-size: clamp(22px, 7.5vw, 28px);
+    line-height: 1.15;
+  }
+  .landing-info {
+    bottom: 25px;
+    width: 100%;
+  }
+  .landing-info h3 {
+    font-size: 16px;
+  }
+  .landing-info h2 {
+    font-size: clamp(24px, 7.5vw, 32px);
+    margin-left: 0;
+    line-height: 1.2;
+  }
+  h2.landing-info-h2 {
+    font-size: clamp(26px, 8vw, 36px);
+    width: 100%;
+    margin-left: 0;
+  }
+  .character-model {
+    height: 60vh;
+    bottom: 20px;
+  }
+}

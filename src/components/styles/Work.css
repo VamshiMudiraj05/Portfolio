@@ -208,3 +208,32 @@
     height: auto;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .work-section h2 {
+    font-size: clamp(34px, 8vw, 45px);
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .work-box {
+    width: calc(100vw - 40px);
+    padding: 24px 16px;
+    gap: 24px;
+  }
+  .work-flex {
+    margin-left: -16px;
+    padding-right: 20px;
+  }
+  .work-title h3 {
+    font-size: 28px;
+    line-height: 28px;
+  }
+  .work-info h4 {
+    font-size: 14px;
+  }
+  .work-image img {
+    max-height: 220px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+}

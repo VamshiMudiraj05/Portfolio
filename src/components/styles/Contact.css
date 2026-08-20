@@ -90,3 +90,18 @@ a.contact-social {
     width: calc(100% - 25px);
   }
 }
+@media only screen and (max-width: 600px) {
+  .contact-section h3 {
+    font-size: clamp(30px, 8vw, 40px);
+  }
+  .contact-box h2 {
+    font-size: 16px;
+    word-break: break-word;
+  }
+  a.contact-social {
+    font-size: 18px;
+  }
+  .contact-container {
+    width: 100%;
+  }
+}

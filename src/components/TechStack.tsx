@@ -11,6 +11,8 @@ import {
   RapierRigidBody,
 } from "@react-three/rapier";
 
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
   "/images/react2.webp",
@@ -128,12 +130,14 @@ const TechStack = () => {
   const [isActive, setIsActive] = useState(false);
 
   useEffect(() => {
+    ScrollTrigger.refresh();
     const handleScroll = () => {
       const scrollY = window.scrollY || document.documentElement.scrollTop;
-      const threshold = document
-        .getElementById("work")!
-        .getBoundingClientRect().top;
-      setIsActive(scrollY > threshold);
+      const workElem = document.getElementById("work");
+      if (workElem) {
+        const threshold = workElem.getBoundingClientRect().top;
+        setIsActive(scrollY > threshold);
+      }
     };
     document.querySelectorAll(".header a").forEach((elem) => {
       const element = elem as HTMLAnchorElement;

@@ -382,10 +382,31 @@
     place-items: inherit;
     align-items: start;
     justify-content: left;
+    padding: 30px 0;
   }
   .what-box {
-    max-width: calc(100% - 25px);
+    max-width: 100%;
+    width: 100%;
     margin: 0;
+  }
+  .what-box h2 {
+    font-size: clamp(34px, 9vw, 48px);
+    line-height: 1.1;
+    margin: 25px 0;
+  }
+  .what-content {
+    padding: 20px 15px;
+  }
+  .what-noTouch:hover,
+  .what-content-active {
+    padding: 15px;
+  }
+  .what-content h3 {
+    font-size: 20px;
+  }
+  .what-tags {
+    font-size: 10.5px;
+    padding: 2px 6px;
   }
 }
 @media only screen and (min-width: 1950px) {

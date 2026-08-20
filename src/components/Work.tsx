@@ -43,9 +43,9 @@ const Work = () => {
 
     function setTranslateX() {
       const box = document.getElementsByClassName("work-box");
-      const rectLeft = document
-        .querySelector(".work-container")!
-        .getBoundingClientRect().left;
+      const container = document.querySelector(".work-container");
+      if (!box || !box[0] || !container) return;
+      const rectLeft = container.getBoundingClientRect().left;
       const rect = box[0].getBoundingClientRect();
       const parentWidth = box[0].parentElement!.getBoundingClientRect().width;
       let padding: number =
@@ -59,20 +59,31 @@ const Work = () => {
       scrollTrigger: {
         trigger: ".work-section",
         start: "top top",
-        end: `+=${translateX}`, // Use actual scroll width
+        end: () => {
+          setTranslateX();
+          return `+=${translateX}`;
+        },
         scrub: true,
         pin: true,
+        pinSpacing: true,
+        anticipatePin: 1,
+        invalidateOnRefresh: true,
         id: "work",
       },
     });
 
     timeline.to(".work-flex", {
-      x: -translateX,
+      x: () => -translateX,
       ease: "none",
     });
 
-    // Clean up (optional, good practice)
+    // Refresh ScrollTrigger after initial render to ensure accurate layout
+    const timer = setTimeout(() => {
+      ScrollTrigger.refresh();
+    }, 500);
+
     return () => {
+      clearTimeout(timer);
       timeline.kill();
       ScrollTrigger.getById("work")?.kill();
     };

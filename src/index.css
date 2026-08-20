@@ -96,8 +96,9 @@ body {
   position: relative;
   height: var(--vh);
   margin: auto;
-  margin-top: 50px;
-  margin-bottom: -100px;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  clear: both;
 }
 
 .techstack h2 {
@@ -119,5 +120,14 @@ body {
 @media screen and (max-width: 900px) {
   .techstack h2 {
     font-size: 40px;
+  }
+}
+@media screen and (max-width: 600px) {
+  body {
+    --cWidth: calc(100% - 24px);
+  }
+  .techstack h2 {
+    font-size: 32px;
+    top: 60px;
   }
 }

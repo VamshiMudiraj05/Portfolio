@@ -31,3 +31,8 @@
     --size: 0px;
   }
 }
+@media (hover: none) and (pointer: coarse) {
+  .cursor-main {
+    display: none !important;
+  }
+}
