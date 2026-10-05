@@ -2,7 +2,7 @@ import "./styles/Career.css";
 
 const Career = () => {
   return (
-    <div className="career-section section-container">
+    <div className="career-section section-container" id="career">
       <div className="career-container">
         <h2>
           My career <span>&</span>
@@ -21,7 +21,7 @@ const Career = () => {
               <h3>2022</h3>
             </div>
             <p>
-              Completed a B.Tech in Computer Science with 8.85 CGPA. Built a strong foundation in software development, Data Structures, Algorithms, OOP, DBMS, and Data Analytics, with practical experience through projects and professional work.
+              Pursued B.Tech in Computer Science Engineering (Data Science) with an 8.85 CGPA. Built a strong foundation in Object-Oriented Programming, Data Structures & Algorithms, DBMS, and Data Analytics through hands-on full-stack development.
             </p>
           </div>
           <div className="career-info-box">
@@ -33,19 +33,32 @@ const Career = () => {
               <h3>2024</h3>
             </div>
             <p>
-              Developed full-responsive web applications, online menus, and custom client portals. Delivered tailored digital solutions combining modern web frontend development with digital video editing.
+              Delivered custom web applications, responsive client websites, and online menu systems. Combined modern frontend engineering with creative media editing and high-impact digital solutions.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Software Engineer Intern</h4>
-                <h5>Isthara Parks Pvt. Ltd.</h5>
+                <h4>Trainee Software Engineer Intern</h4>
+                <h5>Isthara Parks Private Limited</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Assisting in designing and developing full-stack web applications using Java, Spring Boot, React, and MySQL. Building and testing RESTful APIs, resolving bugs, and optimizing performance under Agile practices.
+              Assisting in designing and developing full-stack web applications using Java, Spring Boot, React, and MySQL. Building and testing RESTful APIs, fixing bugs, optimizing performance, and collaborating in Agile sprint cycles.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Certifications & Credentials</h4>
+                <h5>NPTEL & IBM</h5>
+              </div>
+              <h3>CERT</h3>
+            </div>
+            <p>
+              • <strong>Design and Analysis of Algorithms</strong> — NPTEL<br />
+              • <strong>Data Analytics</strong> — IBM
             </p>
           </div>
         </div>

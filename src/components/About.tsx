@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am a Computer Science Engineering (Data Science) undergraduate at Malla Reddy University with practical experience in software development and full-stack applications. I enjoy building solutions using Java, Spring Boot, React, and modern databases.
-
-          Alongside technology, I am passionate about content creation and digital media, where I create engaging content and manage a growing student community. I believe in combining technology, creativity, and storytelling to build meaningful digital experiences.
+          I'm a Computer Science (Data Science) graduate from Malla Reddy University (8.85 CGPA) and Trainee Software Engineer Intern at Isthara Parks. I specialize in building high-performance full-stack applications with Java, Spring Boot, React, and MySQL, alongside data analytics and digital storytelling.
         </p>
       </div>
     </div>
