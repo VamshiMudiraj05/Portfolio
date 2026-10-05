@@ -13,8 +13,8 @@ const Navbar = () => {
     smoother = ScrollSmoother.create({
       wrapper: "#smooth-wrapper",
       content: "#smooth-content",
-      smooth: 0.9,
-      speed: 1,
+      smooth: 1.7,
+      speed: 1.7,
       effects: true,
       autoResize: true,
       ignoreMobileResize: true,
@@ -56,11 +56,6 @@ const Navbar = () => {
           <li>
             <a data-href="#about" href="#about">
               <HoverLinks text="ABOUT" />
-            </a>
-          </li>
-          <li>
-            <a data-href="#career" href="#career">
-              <HoverLinks text="EXPERIENCE" />
             </a>
           </li>
           <li>
